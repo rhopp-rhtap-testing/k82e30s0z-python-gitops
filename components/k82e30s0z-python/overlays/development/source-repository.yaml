@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: k82e30s0z-python-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/k82e30s0z-python
